@@ -24,7 +24,7 @@ At 1st level, you can choose a medical vocation. Your choice grants you skills a
 
 - **Surgeon:** Grants you a surgeon kit. You are able to treat inner and outer wounds using surgical equipment and precision.  
 - **Splicer:** Instead of choosing the path of a reknown doctor, you decided to dive deep into the shady arts of body hacking. You can implant and remove body modifications.
-- **General practitioner:** Grants you a medical kit. You are able to treat all curable diseases that require medical assistance if you have the required tools or materials. Even if you do not have the required tools or materials, you can improvise to prevent and [[Damage & Healing#Critical conditions|critical consequences]]. 
+- **General practitioner:** Grants you a medical kit. You are able to treat all curable diseases that require medical assistance if you have the required tools or materials. Even if you do not have the required tools or materials, you can improvise to prevent and [[Conditions, diseases and wounds#Critical conditions|critical consequences]]. 
 
 ### Anatomy knowledge
 Starting at 2nd level, your deep understanding of many species' anatomy allows you to precisely target weak points. When making a melee or ranged weapon attack, you can add your Wisdom modifier to the damage once per turn. Alternatively, you can use this knowledge to diagnose physical ailments, gaining advantage on Medicine checks when determining the nature of a wound or illness. Anatomy knowledge cannot be used on species you don't know.

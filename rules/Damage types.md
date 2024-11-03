@@ -1,24 +1,4 @@
-### Healing
-In this setting, there is no healing class or spells that simply cure wounds or revive a creature. This is why you have to be careful to either got someone with medical expertise or at least healing items that will patch critical wounds until you find a doctor.
-But do not worry, doctors can be found on most planets and space stations - they do cost money most of the time though. Thankfully, wounds causing critical conditions can be avoided with enough caution, eliminating the need of medical support.
-#### Critical conditions
-Some conditions caused by weapons or the environment require professional medical treatment.
-The following table shows which conditions should be treated by medical professionals.
-If treated by a professional, possible consequences are impossible as long as the required tools and materials are available. Technically, everyone can try to perform medical treatments, but most of the time, they will risk the life of their patient. 
-Example: If someone without any medical background tries to treat inner wounds, there will be several medicine skill checks with a DC of 30, and any fail will cause the condition to worsen.
-
-**Note:** Depending on the race, some consequences might be more or less dangerous and could potentially be treated with less or no intervention. Example: Draconics have strong self-healing abilities, making infections very unlikely.
-
-| Condition    | Required treatment             | Possible consequences                                                                                         | Examples                                   |
-| ------------ | ------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| Inner wounds | Surgery                        | Steadily reduces HP depending on the severity and other factors.                                              | Injured organs                             |
-| Poisoning    | Antidote                       | Wrong antidotes can potentially worsen the conditions. Depending on the toxine, long-term issues are possible |                                            |
-| Radiation    | Medication                     | Over- or underdosing will have severe consequences.                                                           |                                            |
-| Deep wounds  | Medical kit, sometimes surgery | Blood loss, infection, worsening wounds                                                                       | Ammunition or projectiles stuck in a wound |
-| Infection    | Medication                     | Applying the wrong medication or over/underdosing can worsen the conditions severely.                         | Infected wounds, biological diseases       |
-|              |                                |                                                                                                               |                                            |
-
-## Damage types
+Here is a list of revised damage types. Strikethrough types mean they have been renamed or adjusted to match the setting. 
 
 | **Name**                   | **Description**                                                                                                            | **Example**                          |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
