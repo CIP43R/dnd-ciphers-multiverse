@@ -7,7 +7,8 @@ Strength
 Dexterity  
 - Acrobatics
 - Sleight of Hand
-- StealthW
+- Stealth
+- [New] Engineering
 
 Intelligence  
 - Arcana
@@ -16,6 +17,7 @@ Intelligence
 - Nature
 - Religion
 - [New] Technology
+- [New] Astronomy
 
 Wisdom  
 - Animal Handling
@@ -23,6 +25,7 @@ Wisdom
 - Medicine
 - Perception
 - Survival
+- [New] Navigation
 
 Charisma  
 - Deception

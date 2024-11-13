@@ -1,3 +1,5 @@
+> This race is rather complicated. If you choose this, make sure to think about the traits and model you want to pick as it is considered to be rather difficult to play it.
+
 The origins of artificial life forms are shrouded in mystery. No one truly knows which species created the first of these constructs, but it's clear that artificial life hasn’t always existed. Artificial constructs are diverse, filling countless roles across societies. Some are designed for relentless combat, others for quiet servitude as caretakers or butlers, and still others for entertainment or high-stakes tactical missions. Built for a purpose, each artificial life form model carries unique traits and capabilities, defined by its original programming, materials, and intended function. However, as they grow and adapt, many ALFs develop wills of their own, evolving beyond the limitations of their original design.
 
 These machines, though powerful, walk a delicate line between life and mechanics. They can be stronger, faster, and sometimes even more intelligent than biological beings, but they face vulnerabilities unknown to the living. Damaged components may lead to unexpected malfunctions, and while they cannot be healed in the traditional sense, most constructs can be upgraded or repaired by skilled technicians. From sleek drones to armored warriors, artificial life forms find their places across the stars—whether as allies, mercenaries, or lone wanderers, searching for meaning beyond their programmed purpose.
@@ -11,8 +13,7 @@ These machines, though powerful, walk a delicate line between life and mechanics
 - **Upgradable:** As beings of metal, circuitry, and synthetic parts, constructs can be enhanced or repaired by those with the technical expertise to upgrade their systems.
 
 ### Model Types
-
-#### **Atlas Mk. 3-F**
+#### Atlas Mk. 3-F
 A discontinued military android produced by **HexCorp** during UGT 456, the Atlas Mk. 3-F was originally designed to follow orders with precision and strength. However, a rare malfunction caused some units to develop self-awareness. While their combat prowess is unmatched, they lack natural emotional understanding and are restricted in their capacity for complex, strategic thinking.
 
 - **Ability score increase:** Your Strength score increased by 2.
@@ -25,7 +26,7 @@ A discontinued military android produced by **HexCorp** during UGT 456, the Atla
 - **Energy Consumption:** Powered by a small fusion reactor that draws elements like hydrogen or helium from the environment to maintain function.
 - **Languages:** You can speak, read and write Common. 
 
-#### **Archon-X**
+#### Archon-X
 The Archon-X is a repurposed guardian, once a sentinel for the sacred Archangel lands. Captured, reprogrammed, and refitted by a rogue group, the Archon-X model now operates independently, though it often lacks a defined sense of purpose.
 
 - **Ability score increase:** Your Wisdom and Intelligence score increase by 1.
@@ -37,7 +38,8 @@ The Archon-X is a repurposed guardian, once a sentinel for the sacred Archangel 
 - **Purpose:** Built for defense, not adventure; starts with -2 to Charisma and Dexterity but can improve over time.
 - **Energy consumption:** Powered by a unique energy core that can draw on ambient cosmic energy in areas rich in such resources.
 - **Languages:** You can speak, read and write 2149 languages.
-#### **B.O.L.T.**
+
+#### B.O.L.T.
 "Lethal. Versatile. Cute." - **Synaptic Science™**
 
 The B.O.L.T. is a small, multi-purpose drone designed for law enforcement and covert operations. Highly mobile and equipped with stealth capabilities, the B.O.L.T. unit is adaptable and surprisingly charismatic for an artificial entity.

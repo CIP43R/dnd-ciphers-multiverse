@@ -33,3 +33,4 @@ Untreated uncritical wounds may still become critical over time, potentially cau
 |Outer wounds|Light scratches, mild burns|No|
 |Superficial wounds|Glancing shots|Yes|
 |Immune reactions|Cancer|Yes|
+

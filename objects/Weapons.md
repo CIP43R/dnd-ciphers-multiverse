@@ -1,5 +1,5 @@
 
-## Simple Melee Weapons
+### Simple Melee Weapons
 | Name                                                                                       | Description                                                                                                                                                                                                                   | Cost | Damage                             | Weight | Attributes                            |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------- | ------ | ------------------------------------- |
 | Ion Baton                                                                                  | Self defense weapon with a low-powered ionic charge that sparks on impact and deals additional ionic damage when hit. This is part of the standard equipment of a [GUARD]()                                                   | 1 sp | 1d4 bludgeoning + 1d2 ionic damage | 2 lb.  | Light                                 |
@@ -12,7 +12,7 @@
 |                                                                                            |                                                                                                                                                                                                                               | 1 gp | 1d4 slashing                       | 2 lb.  | Light                                 |
 |                                                                                            |                                                                                                                                                                                                                               | 1 gp | 1d6 piercing                       | 3 lb.  | Thrown (range 20/60), versatile (1d8) |
 
-## Simple Ranged Weapons
+### Simple Ranged Weapons
 
 | Name                                                                               | Description                                                                                                                                                              | Cost  | Damage                                                         | Weight       | Attributes                            |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- | -------------------------------------------------------------- | ------------ | ------------------------------------- |
@@ -21,7 +21,7 @@
 | [Shortbow](https://roll20.net/compendium/dnd5e/Items:Shortbow?expansion=0#content) |                                                                                                                                                                          | 25 gp | 1d6 piercing                                                   | 2 lb.        | Ammunition (range 80/320), two-handed |
 | [Sling](https://roll20.net/compendium/dnd5e/Items:Sling?expansion=0#content)       |                                                                                                                                                                          | 1 sp  | 1d4 bludgeoning                                                | —            | Ammunition (range 30/120)             |
 
-## Martial Melee Weapons
+### Martial Melee Weapons
 | Name                                                                                     | Cost  | Damage          | Weight | Attributes                            |
 | ---------------------------------------------------------------------------------------- | ----- | --------------- | ------ | ------------------------------------- |
 | [Battleaxe](https://roll20.net/compendium/dnd5e/Items:Battleaxe?expansion=0#content)     | 10 gp | 1d8 slashing    | 4 lb.  | Versatile (1d10)                      |
@@ -43,7 +43,7 @@
 | [Warhammer](https://roll20.net/compendium/dnd5e/Items:Warhammer?expansion=0#content)     | 15 gp | 1d8 bludgeoning | 2 lb.  | Versatile (1d10)                      |
 | [Whip](https://roll20.net/compendium/dnd5e/Items:Whip?expansion=0#content)               | 2 gp  | 1d4 slashing    | 3 lb.  | Finesse, reach                        |
 
-## Martial Ranged Weapons
+### Martial Ranged Weapons
 
 | Name                                                                                              | Cost  | Damage        | Weight | Attributes                                             |
 | ------------------------------------------------------------------------------------------------- | ----- | ------------- | ------ | ------------------------------------------------------ |

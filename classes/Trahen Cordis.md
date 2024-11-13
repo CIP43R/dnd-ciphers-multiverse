@@ -1,4 +1,4 @@
-> **This class is only available if you choose the Trahen Cordis faction actively or at least have a background including it.**
+> **This class is only available if you choose the Trahen Cordis faction actively or at least have a background including it. You must fulfill the requirements that come with this class if you want to play it.**
 
 The Trahen Cordis is a clandestine order dedicated to harnessing and safeguarding a form of energy they call the _Astral Thread_. This ancient order believes the Thread connects all living things to the dimensions, stars and planets, forming a cosmic web that spans the entire multiverse. Through years of intense meditation, training, and rituals, each member of the covenant learns to see, touch, and manipulate these Astral Threads to wield subtle yet powerful influences.
 
@@ -28,11 +28,32 @@ You start with the following equipment, in addition to the equipment granted by 
 - Light armor
 - Hag's kit
 
-### Abilities and Powers
-- **Threadsight**: Members can enter a trance state in which they can perceive the Astral Threads that connect everything. You can concentrate to use this ability, allowing you to detect emotions, read the faint impressions of recent events, or even catch glimpses of other worlds.
-	- Level 2: Trained members of the Trahen Cordis can use this power to communicate across great distances or guide allies with a form of astral intuition.
-	- Level 4: You gained enough experience to sharpen your senses. You can read the intention of any living creature within 15 feet.
-- **Fateweaving**: Members learn how to gently tug on the astral threads to influence the probabilities around them. As an action, you can grant *minor luck* to allies or *misfortune* to enemies within 15 feet range. Minor luck grants advantage on the next 10 rolls while misfortune causes disadvantage on the next 10 rolls. You can't use Fateweaving again until you take a long rest.
-	- Level 5: You have become one with the astral planes, weaving the threads of fate is like breathing. Fateweaving remains active permanently.
-- **Astral shroud**: By pulling the Astral Threads around themselves, members can become partially obscured, appearing as a shimmering outline or even vanishing briefly from sight. This power helps the Elarian Covenant maintain their secrecy and avoid detection when observing, infiltrating, or escaping.
+#### Threadsight
+At 1st level, you can enter a trance state in which you can perceive the Astral Threads that connect everything and everyone. You are able to use the threads around your enemies and allies, allowing you to see beyond their physical forms. This ability improves with each level and creates a pool of features to choose from. 
+
+| Level | Changes                                                                                                                                                        |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | You can concentrate to use this ability, allowing you to detect emotions, read the faint impressions of recent events, or even catch glimpses of other worlds. |
+| 3rd   | You can use Threadsight to communicate across great distances or guide allies with a form of astral intuition. Range: 120 feet.                                |
+| 4th   | You gained enough experience to sharpen your senses. You can read the thoughts and intention of any living creature within 15 feet.                            |
+
+#### Fateweaving
+At 1st level, you learn how to gently tug on the astral threads to influence the probabilities around them. As an action, you can grant a *minor luck* to allies or *misfortune* to enemies within 15 feet range. Minor luck grants advantage while misfortune causes disadvantage on the next few rolls. 
+
+| Level | Changes                                                                                              |
+| ----- | ---------------------------------------------------------------------------------------------------- |
+| 1st   | Fateweaving's effect lasts for 3 rolls. You can't use Fateweaving again until you take a long rest.  |
+| 3rd   | Fateweaving's effect lasts for 5 rolls. You can't use Fateweaving again until you take a long rest.  |
+| 6th   | Fateweaving's effect lasts for 10 rolls. You can't use Fateweaving again until you take a long rest. |
+| 11th  | Fateweaving's effect lasts for 10 rolls.                                                             |
+
+#### Astral Shroud
+Starting at 1st level, by pulling the Astral Threads around yourself, you can wander through the plains of the multiverse to disappear from this reality, appearing as a shimmering outline or even vanishing briefly from sight depending on your level. This power helps the Trahen Cordis to maintain their secrecy and avoid detection when observing, infiltrating, or escaping. You have to step back into this world if you want to interact with it, meaning that you cannot interact with any presence or item while Astral Shroud is active.
+
+| Level | Changes                                                                                                                                                                                            |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | Astral Shroud makes you partially invisible. You appear as shimmering outline. Your presence can be uncovered by performing an easy perception check. Using Astral Shroud consumes one spell slot. |
+| 2nd   | Astral Shroud does not consume a spell slot.                                                                                                                                                       |
+| 3rd   | You learned how to move between the astral planes. Astral Shroud makes you completely invisible.                                                                                                   |
+| 11th  | You are able to manipulate the Astral Threads while moving through the planes. You can interact with anything in this world without loosing the effect of Astral Shroud.                           |
 
