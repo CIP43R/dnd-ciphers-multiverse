@@ -14,6 +14,7 @@ These machines, though powerful, walk a delicate line between life and mechanics
 
 ### Model Types
 #### Atlas Mk. 3-F
+![[Atlas Mk. 3-F.png|200]]
 A discontinued military android produced by **HexCorp** during UGT 456, the Atlas Mk. 3-F was originally designed to follow orders with precision and strength. However, a rare malfunction caused some units to develop self-awareness. While their combat prowess is unmatched, they lack natural emotional understanding and are restricted in their capacity for complex, strategic thinking.
 
 - **Ability score increase:** Your Strength score increased by 2.
@@ -27,6 +28,7 @@ A discontinued military android produced by **HexCorp** during UGT 456, the Atla
 - **Languages:** You can speak, read and write Common. 
 
 #### Archon-X
+![[Archon-X.png|200]]
 The Archon-X is a repurposed guardian, once a sentinel for the sacred Archangel lands. Captured, reprogrammed, and refitted by a rogue group, the Archon-X model now operates independently, though it often lacks a defined sense of purpose.
 
 - **Ability score increase:** Your Wisdom and Intelligence score increase by 1.
@@ -40,6 +42,7 @@ The Archon-X is a repurposed guardian, once a sentinel for the sacred Archangel 
 - **Languages:** You can speak, read and write 2149 languages.
 
 #### B.O.L.T.
+![[B.O.L.T..png|200]]
 "Lethal. Versatile. Cute." - **Synaptic Science™**
 
 The B.O.L.T. is a small, multi-purpose drone designed for law enforcement and covert operations. Highly mobile and equipped with stealth capabilities, the B.O.L.T. unit is adaptable and surprisingly charismatic for an artificial entity.
@@ -53,4 +56,4 @@ The B.O.L.T. is a small, multi-purpose drone designed for law enforcement and co
 - **Camouflage:** Can activate an invisibility cloak for stealth missions, consuming extra energy.
 - **Purpose:** Built for tactical operations, not strength-based tasks; starts with -2 to Strength and Wisdom but can improve gradually.
 - **Energy consumption:** Runs on a single energy cell that must be replaced or recharged. High-energy actions, like camouflage, consume additional power.
-- **Languages:** You can speak, read and write Common and one language of your choice.
+- **Languages:** You can speak, read and write Common and two languages of your choice.

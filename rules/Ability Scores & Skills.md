@@ -1,6 +1,8 @@
 
  Ability Scores stay as they are.
 
+Constitution
+
 Strength  
 - Athletics
 

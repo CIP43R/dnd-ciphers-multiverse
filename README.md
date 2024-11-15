@@ -20,3 +20,6 @@ Elements to introduce:
 - One class that uses the same type of slots for all their abilities or spells
 - Add descriptions for appearances
 - Generate AI images of the races
+- Warframe
+- Include the 3 body problem
+- Check which species should be part of the united planet alliance
