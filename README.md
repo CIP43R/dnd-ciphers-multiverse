@@ -12,7 +12,10 @@ Every 5e rule and content applies unless overridden by the rules in this system.
 - The combat system has been reworked - please see [[Conditions, diseases and wounds]]
 - New [[Ability Scores & Skills]] have been added
 
-## TODO
+## TODOs for world building
+
+May contain spoilers for my next campaign!
+<details> 
 Elements to introduce:
 - Religious, mysterious cults
 - Space pirates and combats
@@ -20,6 +23,7 @@ Elements to introduce:
 - One class that uses the same type of slots for all their abilities or spells
 - Add descriptions for appearances
 - Generate AI images of the races
-- Warframe
+- Warframe stuff
 - Include the 3 body problem
 - Check which species should be part of the united planet alliance
+</details>
