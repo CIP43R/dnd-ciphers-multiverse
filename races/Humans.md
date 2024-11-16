@@ -7,11 +7,11 @@ While many of the old divisions have faded, humans remain deeply diverse, a tape
 
 ### Human racial traits:
 - **Ability Score Increase:** Your Intelligence and your Charisma score increase by 1. Two different ability scores of your choice increase by 1.
-- **Age:** Humans reach adulthood in their late teens and live a bit more than a century thanks to modern medicine.
+- **Age:** Humans reach adulthood in their late teens and live a bit more than a century thanks to modern medicine, reaching up to 120 years.
 - **Alignment**: Humans tend toward no particular alignment. The best and the worst are found among them.
 - **Size:** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
 - **Speed:** You have a walking speed of 30 ft.
 - **Languages:** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects.
 - **Diplomatic**: Humans are one of the only species that changed their primitive and self centered views to become diplomatic. You become proficient in Persuation and gain advantage on Charisma saving throws.
 - **Skilled**: You gain proficiency in one skill of your choice.
-- **Adaptive Evolution**: Humans have evolved to adapt to almost any environment. You have resistance to one environmental condition (such as extreme cold, heat, or radiation).
+- **Adaptive Evolution**: Humans have evolved to adapt to almost any environment. You have resistance to one environmental condition (such as extreme cold or heat).

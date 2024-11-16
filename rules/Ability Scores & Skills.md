@@ -34,3 +34,4 @@ Charisma
 - Intimidation
 - Performance
 - Persuasion
+- [D]

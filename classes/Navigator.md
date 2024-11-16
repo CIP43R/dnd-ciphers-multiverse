@@ -10,17 +10,17 @@ With the dawn of interstellar travel, navigating the vast unknown of the univers
 **[Weapons](Weapons.md):** Simple melee weapons, simple ranged weapons
 **Tools:** 
 **Saving Throws:** Intelligence, Wisdom
-**Skills:** 
+**Skills:** Choose two from Survival, History and Astronomy
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 - (a) A simple melee weapon or (b) simple ranged weapon
 
 ### Navigation mastery
-At 1st level, Navigators can map out the most efficient and safest routes through space, reducing travel time and avoiding hazards. They gain proficiency in Anatomy (Intelligence) checks and can calculate hyperspace jumps or complex maneuvers faster than others, avoiding dangerous areas like asteroid fields or nebulas more easily.
+At 1st level, Navigators can map out the most efficient and safest routes through space, reducing travel time and avoiding hazards. They gain advantage and are proficient in Navigation checks and can calculate hyperspace jumps or complex maneuvers faster than others, avoiding dangerous areas like asteroid fields or nebulas more easily.
 
 ### Adaptive Knowledge
 Exposure to diverse planets and ecosystems has given Navigators a wide-ranging knowledge base. Choose one additional proficiency or language each time you level up. Navigators can also make Intelligence checks with advantage to recall planetary lore, environmental hazards, or alien species traits relevant to their surroundings.
 
 ### Cartographer
-Navigators carry a reliable mental map of the universe, allowing them to chart both star maps and planetary landscapes. They can create detailed maps of explored areas, including marking resource-rich zones, hidden paths, or known hazards, which grants allies advantage on related survival or navigation checks.
+Navigators carry a reliable mental map of the universe, allowing them to chart both star maps and planetary landscapes. They can create detailed maps of explored areas, including marking resource-rich zones, hidden paths, or known hazards, which grants allies advantage on related survival or navigation checks.ö

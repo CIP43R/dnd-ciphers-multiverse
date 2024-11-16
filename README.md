@@ -2,6 +2,8 @@
 
 This is an adaption of the official dnd 5e system, but modified for my personal use in one of my campaigns. It replaces most races, classes and items and introduces an entirely new universe, features and more.
 
+I took my inspiration from Star Trek, Star Wars, Dune, Destiny (the game) and the Expanse.
+
 ## Rules and changes
 Every 5e rule and content applies unless overridden by the rules in this system. The following rules have been added/removed/adjusted:
 
@@ -26,4 +28,5 @@ Elements to introduce:
 - Warframe stuff
 - Include the 3 body problem
 - Check which species should be part of the united planet alliance
+- Dangers of interstellar travel
 </details>

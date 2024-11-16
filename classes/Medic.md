@@ -20,7 +20,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) A medkit or (b) a defibrillator
 
 ### Vocation
-At 1st level, you can choose a medical vocation. Your choice grants you skills and proficiencies to cure different types of diseases and wounds that would require medical profession. With higher levels, the chosen vocation improves, granting other features or advantages (see [[Medic#Vocation mastery|vocation mastery]]). All the skills and knowledge for Vocation can only be applied to species you know.
+At 1st level, you can choose a medical vocation. Your choice grants you skills and proficiencies to cure different types of diseases and wounds that would require medical profession. You are able to use medical items without having to take Medicine checks. With higher levels, the chosen vocation improves, granting other features or advantages (see [[Medic#Vocation mastery|vocation mastery]]). All the skills and knowledge for Vocation can only be applied to species you know.
 
 - **Surgeon:** Grants you a surgeon kit. You are able to treat inner and outer wounds using surgical equipment and precision.  
 - **Splicer:** Instead of choosing the path of a reknown doctor, you decided to dive deep into the shady arts of body hacking. You can implant and remove body modifications.
