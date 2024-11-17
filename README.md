@@ -24,9 +24,21 @@ Elements to introduce:
 - Make certain races allergic to certain medicine
 - One class that uses the same type of slots for all their abilities or spells
 - Add descriptions for appearances
-- Generate AI images of the races
 - Warframe stuff
 - Include the 3 body problem
 - Check which species should be part of the united planet alliance
 - Dangers of interstellar travel
+
+Relations for classes and races (or at least my attempts for it):
+- Scavengers are inspired by the Artificer
+- Medics are inspired by Cleric
+- Mercenary is inspired by the Barbarian
+- Navigator is completely unrelated
+- Nomad is inspired by Ranger and Rouge
+- Scout is inspired by Rogue and Ranger
+- Soldier is inspired by Fighter
+- Trahen Cordis is inspired by Warlock
+- The Sulvex and Umbrynn are supposed to relate to the druid
+
+TBD: Wizard, Bard (or some kind of support)
 </details>
